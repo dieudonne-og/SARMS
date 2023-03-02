@@ -1,0 +1,1 @@
+$("#testimonials").parallax("50%",.1),$(".main-menu").sticky({topSpacing:0}),(new WOW).init();
